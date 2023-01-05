@@ -17,6 +17,15 @@
       "kms": 8000,
       "Description": "Tata Nexon with all original documents",
       "Price": 800000
+    },
+    {
+      "id": 3,
+      "brand": "Tata",
+			"type":"Manual",
+      "year": 2017,
+      "kms": 9000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 900000
     }
   ],
 "wishlisted_cars": [
