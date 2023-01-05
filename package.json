@@ -1,0 +1,24 @@
+{
+  "name": "mock-5-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyankadora20/mock-5-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyankadora20/mock-5-backend/issues"
+  },
+  "homepage": "https://github.com/priyankadora20/mock-5-backend#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
