@@ -41,19 +41,19 @@
   ],
   "users":[
     {
-      "id":1,
+      "username":"priyanka",
       "email":"dora123p@gmail.com",
       "password":"pri123",
       "confirm":"pri123"
     },
     {
-      "id":2,
+      "username":"priya",
       "email":"ritu1@gmail.com",
       "password":"ritu",
       "confirm":"ritu"
     },
     {
-      "id":2,
+      "username":"shivi",
       "email":"Shivi2@gmail.com",
       "password":"shivi",
       "confirm":"shivi"
