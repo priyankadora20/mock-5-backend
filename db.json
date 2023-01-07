@@ -39,25 +39,7 @@
       "Price": 500000
     }
   ],
-  "users":[
-    {
-      "username":"priyanka",
-      "email":"dora123p@gmail.com",
-      "password":"pri123"
-    },
-    {
-      "username":"priya",
-      "email":"ritu1@gmail.com",
-      "password":"ritu"
-      
-    },
-    {
-      "username":"shivi",
-      "email":"Shivi2@gmail.com",
-      "password":"shivi"
-      
-    }
-  ]
+  "data":[]
 
   
 }
