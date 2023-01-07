@@ -39,21 +39,24 @@
       "Price": 500000
     }
   ],
-  "Resigister":[
+  "users":[
     {
       "id":1,
       "email":"dora123p@gmail.com",
-      "password":"pri123"
+      "password":"pri123",
+      "confirm":"pri123"
     },
     {
       "id":2,
       "email":"ritu1@gmail.com",
-      "password":"ritu"
+      "password":"ritu",
+      "confirm":"ritu"
     },
     {
       "id":2,
       "email":"Shivi2@gmail.com",
-      "password":"shivi"
+      "password":"shivi",
+      "confirm":"shivi"
     }
   ]
 
