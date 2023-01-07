@@ -38,5 +38,24 @@
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
     }
+  ],
+  "Resigister":[
+    {
+      "id":1,
+      "email":"dora123p@gmail.com",
+      "password":"pri123"
+    },
+    {
+      "id":2,
+      "email":"ritu1@gmail.com",
+      "password":"ritu"
+    },
+    {
+      "id":2,
+      "email":"Shivi2@gmail.com",
+      "password":"shivi"
+    }
   ]
+
+  
 }
